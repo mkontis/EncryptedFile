@@ -9,7 +9,7 @@ Instructions!!
 3.Create a password
 
 **To use the file:
-1.Run the script 
+1.Run the script and enter the password
 2.Open the txt to read or write
 3.Hit enter when done
 
